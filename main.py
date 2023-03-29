@@ -48,7 +48,7 @@ def change_card():
 
 # main window
 window = tkinter.Tk()
-window.title("Test")
+window.title("Flashcards")
 window.minsize()
 window.config(padx=50, pady=50, bg=BACKGROUND_COLOR, highlightthickness=0)
 
